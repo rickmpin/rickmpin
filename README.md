@@ -1,14 +1,14 @@
 ## OI 👋
-Henrique de Moraes Pinheiro <br>
-### Estudando Programação <br> <br>
-16 anos <br>
+Henrique de Moraes Pinheiro <br> <br>
+### Estudando Programação 
+### 16 anos <br> <br>
 ### Cursando
 CSS <br>
-JAVA SCRIPT <br>
+JAVA SCRIPT
 HTML <br>
 JAVA <br>
-<br> <br>
-### Pretendo Aprender <br>
+<br> 
+### Pretendo Aprender
 PITHON <br>
 C# <br>
 C++
